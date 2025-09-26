@@ -17,5 +17,11 @@
   "ai": {
     "binding": "AI"
   },
+  "vectorize": [
+    {
+      "binding": "VECTORIZE",
+      "index_name": "autorag-dieppv"
+    }
+  ]
   "upload_source_maps": true
 }
